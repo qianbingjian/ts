@@ -1,7 +1,7 @@
 # [Typescript](https://www.tslang.cn)
-typescript学习笔记
-----
+## typescript学习笔记
 
+----
 ### **boolean** *布尔*
 - `let isDone: boolean = true;`
 - `let isFinish: boolean = false;`
