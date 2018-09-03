@@ -1,5 +1,5 @@
 # [Typescript](https://www.tslang.cn)
-
+typescript学习笔记
 ----
 
 ### **boolean** *布尔*
