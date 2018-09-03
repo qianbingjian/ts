@@ -1,4 +1,5 @@
 # [Typescript](https://www.tslang.cn)
+
 ----
 
 ### **boolean** *布尔*
